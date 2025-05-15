@@ -1,0 +1,42 @@
+
+    fieldset{
+        width: 150px;
+        background-color:beige;
+        color: black;
+        border-radius: 10px;
+        box-shadow: 10px 15px 19px gray;
+        border:none;
+    }
+    input{
+    
+        border-left: none;
+        border-right: none;
+        border-top: none;
+        width: 400px;
+        font-family: 'Courier New', Courier, monospace;
+        height:40px;
+        font-weight: bold;
+        text-transform: capitalize;
+    }
+    h1{
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bolder;
+    
+    
+    
+    }
+    button{
+        width: 100px;
+        cursor: pointer;
+        height: 40px;
+        border:none;
+        border-radius:10px;
+        background-color: black;
+        color: white;
+    padding: 5px;
+    font-size: 16px;    
+    }
+    a{
+        text-decoration: none;
+    }
+    
